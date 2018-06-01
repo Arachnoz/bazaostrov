@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /templates_c/
+Disallow: /cgi-bin/
+Disallow: /thanx.html
+Disallow: /no.html
