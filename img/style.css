@@ -1,4 +1,4 @@
-body {margin:0px;behavior:url("csshover.htc");overflow: scroll;}
+body {margin:0px;behavior:url("csshover.htc");overflow-y: scroll;}
 a {color:#000000;text-decoration:none;}
 a:hover {color:#999999;text-decoration:underline;}
 #grid {width:1000px;border:1px;font-family:verdana;}
